@@ -74,5 +74,9 @@
       "value": 32,
       "type": "spacing"
     }
+  },
+  "xxl": {
+    "value": 64,
+    "type": "spacing"
   }
 }
