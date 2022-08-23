@@ -35,23 +35,23 @@
     "primary": {
       "opacity": {
         "8": {
-          "value": "#b91c1c14",
+          "value": "#4e04af14",
           "type": "color"
         },
         "16": {
-          "value": "#b91c1c29",
+          "value": "#4e04af29",
           "type": "color"
         },
         "40": {
-          "value": "#b91c1c66",
+          "value": "#4e04af66",
           "type": "color"
         },
         "80": {
-          "value": "#b91c1ccc",
+          "value": "#4e04afcc",
           "type": "color"
         },
         "100": {
-          "value": "#B91C1C",
+          "value": "#4E04AF",
           "type": "color"
         }
       }
