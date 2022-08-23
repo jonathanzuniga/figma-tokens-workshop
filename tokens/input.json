@@ -3,6 +3,10 @@
     "0": {
       "value": "global",
       "type": "other"
+    },
+    "1": {
+      "value": "other set",
+      "type": "other"
     }
   },
   "colors": {
@@ -35,23 +39,23 @@
     "primary": {
       "opacity": {
         "8": {
-          "value": "#4e04af14",
+          "value": "#b91c1c14",
           "type": "color"
         },
         "16": {
-          "value": "#4e04af29",
+          "value": "#b91c1c29",
           "type": "color"
         },
         "40": {
-          "value": "#4e04af66",
+          "value": "#b91c1c66",
           "type": "color"
         },
         "80": {
-          "value": "#4e04afcc",
+          "value": "#b91c1ccc",
           "type": "color"
         },
         "100": {
-          "value": "#4E04AF",
+          "value": "#B91C1C",
           "type": "color"
         }
       }
