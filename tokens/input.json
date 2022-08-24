@@ -82,5 +82,9 @@
   "xxl": {
     "value": 64,
     "type": "spacing"
+  },
+  "image": {
+    "value": "'x.jpg'",
+    "type": "other"
   }
 }
