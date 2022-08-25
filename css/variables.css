@@ -1,22 +1,22 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Aug 2022 18:21:24 GMT
+ * Generated on Thu, 25 Aug 2022 22:12:14 GMT
  */
 
 :root {
-  --token-set-order-0: global;
-  --token-set-order-1: other set;
-  --colors-primary-opacity-8: #b91c1c14;
-  --colors-primary-opacity-16: #b91c1c29;
-  --colors-primary-opacity-40: #b91c1c66;
-  --colors-primary-opacity-80: #b91c1ccc;
-  --colors-primary-opacity-100: #B91C1C;
+  --token-set-order-0: other set;
+  --token-set-order-1: global;
   --colors-red-300: #FCA5A5;
   --colors-red-500: #EF4444;
   --colors-red-700: #B91C1C;
   --colors-black: #000000;
   --colors-white: #ffffff;
   --colors-purple: #4E04AF;
+  --colors-primary-opacity-8: #4e04af14;
+  --colors-primary-opacity-16: #4e04af29;
+  --colors-primary-opacity-40: #4e04af66;
+  --colors-primary-opacity-80: #4e04afcc;
+  --colors-primary-opacity-100: #4E04AF;
   --spacing-sm: 4;
   --spacing-md: 8;
   --spacing-lg: 16;
