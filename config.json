@@ -7,17 +7,11 @@
       "files": [
         {
           "destination": "font_dimens.xml",
-          "format": "android/resources",
-          "filter": {
-            "attributes": { "category": "size" }
-          }
+          "format": "android/fontDimens"
         },
         {
           "destination": "colors.xml",
-          "format": "android/resources",
-          "filter": {
-            "attributes": { "category": "color" }
-          }
+          "format": "android/colors"
         }
       ]
     },
