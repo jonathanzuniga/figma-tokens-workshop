@@ -10,7 +10,6 @@
           "format": "android/fontDimens"
         },
         {
-          "destination": "colors.xml",
           "format": "android/resources",
           "filter": {
             "attributes": { "category": "color" }
