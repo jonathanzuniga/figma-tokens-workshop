@@ -16,6 +16,36 @@
       ]
     },
 
+    "compose": {
+      "transformGroup": "compose",
+      "buildPath": "assets/compose/",
+      "files": [
+        {
+          "destination": "StyleDictionaryColor.kt",
+          "format": "compose/object",
+          "className": "StyleDictionaryColor",
+          "packageName": "StyleDictionaryColor",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        },
+        {
+          "destination": "StyleDictionarySize.kt",
+          "format": "compose/object",
+          "className": "StyleDictionarySize",
+          "packageName": "StyleDictionarySize",
+          "type": "float",
+          "filter": {
+            "attributes": {
+              "category": "size"
+            }
+          }
+        }
+      ]
+    },
+
     "css": {
       "transformGroup": "css",
       "files": [
