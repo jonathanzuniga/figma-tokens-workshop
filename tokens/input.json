@@ -1,15 +1,39 @@
 {
   "tokenSetOrder": {
     "0": {
-      "value": "other set",
+      "value": "global",
       "type": "other"
     },
     "1": {
-      "value": "global",
+      "value": "other set",
       "type": "other"
     }
   },
   "colors": {
+    "primary": {
+      "opacity": {
+        "8": {
+          "value": "#b91c1c14",
+          "type": "color"
+        },
+        "16": {
+          "value": "#b91c1c29",
+          "type": "color"
+        },
+        "40": {
+          "value": "#b91c1c66",
+          "type": "color"
+        },
+        "80": {
+          "value": "#b91c1ccc",
+          "type": "color"
+        },
+        "100": {
+          "value": "#B91C1C",
+          "type": "color"
+        }
+      }
+    },
     "red": {
       "300": {
         "value": "#FCA5A5",
@@ -35,30 +59,6 @@
     "purple": {
       "value": "#4E04AF",
       "type": "color"
-    },
-    "primary": {
-      "opacity": {
-        "8": {
-          "value": "#4e04af14",
-          "type": "color"
-        },
-        "16": {
-          "value": "#4e04af29",
-          "type": "color"
-        },
-        "40": {
-          "value": "#4e04af66",
-          "type": "color"
-        },
-        "80": {
-          "value": "#4e04afcc",
-          "type": "color"
-        },
-        "100": {
-          "value": "#4E04AF",
-          "type": "color"
-        }
-      }
     }
   },
   "spacing": {
