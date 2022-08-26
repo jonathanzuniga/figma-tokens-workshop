@@ -11,7 +11,10 @@
         },
         {
           "destination": "colors.xml",
-          "format": "android/colors"
+          "format": "android/resources",
+          "filter": {
+            "attributes": { "category": "color" }
+          }
         }
       ]
     },
