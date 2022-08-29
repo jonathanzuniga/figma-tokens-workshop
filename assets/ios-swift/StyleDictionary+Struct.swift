@@ -4,13 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Aug 2022 17:18:06 GMT
+// Generated on Mon, 29 Aug 2022 17:19:23 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
     internal static let colorsBlack = #000000
+    internal static let colorsLavenderFloral = #b591f9
     internal static let colorsPrimaryOpacity100 = #B91C1C
     internal static let colorsPrimaryOpacity16 = #b91c1c29
     internal static let colorsPrimaryOpacity40 = #b91c1c66
@@ -22,7 +23,6 @@ internal struct StyleDictionaryStruct {
     internal static let colorsRed700 = #B91C1C
     internal static let colorsWhite = #ffffff
     internal static let image = 'x.jpg'
-    internal static let lavenderFloral = #b591f9
     internal static let spacingLg = 16
     internal static let spacingMd = 8
     internal static let spacingSm = 4

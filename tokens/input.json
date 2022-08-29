@@ -59,6 +59,10 @@
     "purple": {
       "value": "#4E04AF",
       "type": "color"
+    },
+    "lavenderFloral": {
+      "value": "#b591f9",
+      "type": "color"
     }
   },
   "spacing": {
@@ -86,9 +90,5 @@
   "image": {
     "value": "'x.jpg'",
     "type": "other"
-  },
-  "lavender-floral": {
-    "value": "#b591f9",
-    "type": "color"
   }
 }

@@ -4,13 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 29 Aug 2022 17:18:06 GMT
+// Generated on Mon, 29 Aug 2022 17:19:23 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
     public static let colorsBlack = #000000
+    public static let colorsLavenderFloral = #b591f9
     public static let colorsPrimaryOpacity100 = #B91C1C
     public static let colorsPrimaryOpacity16 = #b91c1c29
     public static let colorsPrimaryOpacity40 = #b91c1c66
@@ -22,7 +23,6 @@ public class StyleDictionaryClass {
     public static let colorsRed700 = #B91C1C
     public static let colorsWhite = #ffffff
     public static let image = 'x.jpg'
-    public static let lavenderFloral = #b591f9
     public static let spacingLg = 16
     public static let spacingMd = 8
     public static let spacingSm = 4
