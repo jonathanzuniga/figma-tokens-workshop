@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 26 Aug 2022 23:31:12 GMT
+ * Generated on Mon, 29 Aug 2022 17:18:06 GMT
  */
 
 :root {
@@ -23,4 +23,5 @@
   --spacing-xl: 32;
   --xxl: 64;
   --image: 'x.jpg';
+  --lavender-floral: #b591f9;
 }

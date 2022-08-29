@@ -86,5 +86,9 @@
   "image": {
     "value": "'x.jpg'",
     "type": "other"
+  },
+  "lavender-floral": {
+    "value": "#b591f9",
+    "type": "color"
   }
 }
