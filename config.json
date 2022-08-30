@@ -48,7 +48,7 @@
 
     "css": {
       "transformGroup": "css",
-      "transforms": ["attribute/cti", "name/cti/kebab", "size/px", "size/px"],
+      "transforms": ["attribute/cti", "name/cti/kebab", "size/px", "color/hex"],
       "files": [
         {
           "destination": "assets/css/variables.css",
