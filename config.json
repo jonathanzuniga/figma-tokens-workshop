@@ -47,7 +47,7 @@
     },
 
     "css": {
-      "transforms": ["name/cti/kebab", "color/hex", "size/rem"],
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
       "transformGroup": "css",
       "files": [
         {
