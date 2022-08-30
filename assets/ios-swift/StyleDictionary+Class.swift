@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 30 Aug 2022 20:14:32 GMT
+// Generated on Tue, 30 Aug 2022 21:47:07 GMT
 
 
 import UIKit
@@ -69,17 +69,17 @@ public class StyleDictionaryClass {
     public static let semanticFgOnAccent = #FFFFFF
     public static let semanticFgSubtle = #757D88
     public static let semanticPrimaryDefault = #4E04AF
-    public static let spacing0 = 0
-    public static let spacing1 = 8
-    public static let spacing10 = 80
-    public static let spacing2 = 16
-    public static let spacing3 = 24
-    public static let spacing4 = 32
-    public static let spacing5 = 40
-    public static let spacing6 = 48
-    public static let spacing7 = 56
-    public static let spacing8 = 64
-    public static let spacing9 = 72
+    public static let sizeSpacing0 = CGFloat(0.00)
+    public static let sizeSpacing1 = CGFloat(128.00)
+    public static let sizeSpacing10 = CGFloat(1280.00)
+    public static let sizeSpacing2 = CGFloat(256.00)
+    public static let sizeSpacing3 = CGFloat(384.00)
+    public static let sizeSpacing4 = CGFloat(512.00)
+    public static let sizeSpacing5 = CGFloat(640.00)
+    public static let sizeSpacing6 = CGFloat(768.00)
+    public static let sizeSpacing7 = CGFloat(896.00)
+    public static let sizeSpacing8 = CGFloat(1024.00)
+    public static let sizeSpacing9 = CGFloat(1152.00)
     public static let textsRegularBody = [object Object]
     public static let textsRegularMedium = [object Object]
     public static let textsRegularSmall = [object Object]

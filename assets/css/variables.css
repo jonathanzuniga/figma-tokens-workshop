@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 30 Aug 2022 20:14:32 GMT
+ * Generated on Tue, 30 Aug 2022 21:47:07 GMT
  */
 
 :root {
@@ -52,17 +52,17 @@
   --colors-light-80: #D6DBE4;
   --colors-light-100: #CCD2DD;
   --border-radius-4: 4;
-  --spacing-0: 0;
-  --spacing-1: 8;
-  --spacing-2: 16;
-  --spacing-3: 24;
-  --spacing-4: 32;
-  --spacing-5: 40;
-  --spacing-6: 48;
-  --spacing-7: 56;
-  --spacing-8: 64;
-  --spacing-9: 72;
-  --spacing-10: 80;
+  --size-spacing-0: 0px;
+  --size-spacing-1: 8px;
+  --size-spacing-2: 16px;
+  --size-spacing-3: 24px;
+  --size-spacing-4: 32px;
+  --size-spacing-5: 40px;
+  --size-spacing-6: 48px;
+  --size-spacing-7: 56px;
+  --size-spacing-8: 64px;
+  --size-spacing-9: 72px;
+  --size-spacing-10: 80px;
   --headings-h1: [object Object];
   --headings-h2: [object Object];
   --headings-h3: [object Object];
